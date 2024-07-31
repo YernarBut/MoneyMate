@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MoneyMate2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--        <item name="android:windowFullscreen">true</item>-->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/colorPrimaryDark</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/enable_thumb_black</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_black</item>
+        <item name="android:colorForeground">@color/disable_foreground_black</item>
+    </style>
+
+    <style name="ScreenBackground">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="CardView2">
+        <item name="cardBackgroundColor">@color/black</item>
+    </style>
+
+    <style name="TextColor">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextColorForRV">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextColorForBV">
+        <item name="itemTextColor">@color/black</item>
+    </style>
+
+    <style name="ICSettings">
+        <item name="android:src">@drawable/ic_settings</item>
+    </style>
+
+    <style name="ICTenge">
+        <item name="android:src">@drawable/ic_tenge3</item>
+    </style>
+
+    <style name="ICGraphic">
+        <item name="android:src">@drawable/ic_graphic</item>
+    </style>
+
+    <style name="Theme.MoneyMate2" parent="Base.Theme.MoneyMate2" />
+</resources>

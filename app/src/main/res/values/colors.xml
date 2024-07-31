@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#F44336</color>
+    <color name="violet">#9C27B0</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#8BC34A</color>
+    <color name="ocean">#00BCD4</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="purple">#E91E63</color>
+    <color name="peach">#FBCEB1</color>
+    <color name="indigo">#4B0082</color>
+    <color name="brass">#CD9575</color>
+    <color name="apples">#A8E4A0</color>
+    <color name="brown_red">#800000</color>
+
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+
+    <color name="colorPrimaryNight">#FF000000</color>
+    <color name="colorPrimaryDarkNight">#FFFFFFFF</color>
+
+    <color name = "disable_foreground_white">#FFFFFFFF</color>
+    <color name = "disable_thumb_white">#FFFFFFFF</color>
+    <color name = "enable_thumb_white">#FFFFFFFF</color>
+
+    <color name = "disable_foreground_black">#FF000000</color>
+    <color name = "disable_thumb_black">#FF000000</color>
+    <color name = "enable_thumb_black">#FF000000</color>
+</resources>

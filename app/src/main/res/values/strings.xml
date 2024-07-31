@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MoneyMate2</string>
+    <string name="balance">Balance</string>
+    <string name="summ">Summ</string>
+    <string name="create_account">Create account</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="your_password">Your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="create_account_button">Create account</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in_button">Log in</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="currency_view">Currency view</string>
+    <string name="moneymate">MoneyMate</string>
+    <string name="welcome_to_moneymate">Welcome to MoneyMate</string>
+    <string name="description_name">Now you can easily track your income and expenses, create budgets, and take full control of your finances</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="expense">Expense</string>
+    <string name="amount">Amount</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="expences_made_for">Expences made for</string>
+    <string name="add">Add</string>
+    <string name="amount_text">Add Amount</string>
+    <string name="your_expense">Your expense</string>
+    <string name="category">Category</string>
+    <string name="_0">0</string>
+    <string name="enter_your_monthly_budget">Enter your monthly budget</string>
+    <string name="your_budget">Your budget</string>
+    <string name="next">Next</string>
+    <string name="notes">Notes</string>
+    <string name="calculator">Calculator</string>
+    <string name="hello">Hello</string>
+    <string name="add_note">Add Note</string>
+    <string name="your_note">Your note</string>
+    <string name="schedule">Schedule</string>
+    <string name="email_is_invalid">Email is invalid</string>
+    <string name="password_length_is_invalid">Password length is invalid</string>
+    <string name="password_not_matched">Password not matched</string>
+
+    <string name="default_web_client_id">492754213380-9uvcrg9hb283gblh4upuuuqck343vscs.apps.googleusercontent.com</string>
+    <string name="recover_password_description">Enter the email address you used to register and we\'ll send you the instruction</string>
+    <string name="reset_password">Reset password</string>
+    <string name="recover_password">Recover Password</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+
+
+    <array name="types_of_currency">
+        <item>Доллар США</item>
+        <item>Фунт стерлингов</item>
+        <item>Японская йена</item>
+        <item>Китайский юань</item>
+        <item>Евро</item>
+        <item>Российский рубль</item>
+    </array>
+</resources>
