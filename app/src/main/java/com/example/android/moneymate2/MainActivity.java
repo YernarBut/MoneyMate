@@ -102,6 +102,7 @@ public class MainActivity extends BaseActivity {
                 }
             }
         });
+        
 
         ItemTouchHelper itemTouchHelper = new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(
                 0,
